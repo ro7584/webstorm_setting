@@ -27,6 +27,9 @@
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
